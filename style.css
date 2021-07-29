@@ -26,3 +26,10 @@ body{
 .filter-gray{
     filter: grayscale(100%);
 }
+
+.accordion-item{
+    border: 1px solid;
+    margin: auto;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
